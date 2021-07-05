@@ -21,3 +21,4 @@ https://github.com/hyelimchoi1223/AIFFEL/tree/main/pre-school
   * [Better Way 16~21](https://github.com/hyelimchoi1223/AIFFEL/blob/main/week1/%5B%ED%92%80%EC%9E%8E%5D%EC%BD%94%EB%94%A9%EB%A7%88%EC%8A%A4%ED%84%B0/2021.07.01.md)
   * [Better Way 22~27](https://github.com/hyelimchoi1223/AIFFEL/blob/main/week1/%5B%ED%92%80%EC%9E%8E%5D%EC%BD%94%EB%94%A9%EB%A7%88%EC%8A%A4%ED%84%B0/2021.07.02.md)  
 * [Week2](https://github.com/hyelimchoi1223/AIFFEL/tree/main/week2/[풀잎]코딩마스터)
+  * [Better Way 28~32](https://github.com/hyelimchoi1223/AIFFEL/blob/main/week2/%5B%ED%92%80%EC%9E%8E%5D%EC%BD%94%EB%94%A9%EB%A7%88%EC%8A%A4%ED%84%B0/2021.07.05.md)  
