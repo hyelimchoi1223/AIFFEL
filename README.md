@@ -13,6 +13,8 @@ https://github.com/hyelimchoi1223/AIFFEL/tree/main/pre-school
 * [Week2](https://github.com/hyelimchoi1223/AIFFEL/tree/main/week2/node)
   * Fundamental 6 : 파이썬 잘 하는척 해보자
   * Fundamental 7 : Data 어떻게 표현하면 좋을까? 배열(array)과 표
+  * Fundamental 8 : 데이터를 한눈에! Visualization
+  * Fundamental 9 : 다양한 데이터 전처리 기법
 
 ## ✅ 풀잎스쿨 정리
 * [Week1](https://github.com/hyelimchoi1223/AIFFEL/tree/main/week1/[풀잎]코딩마스터)
@@ -24,3 +26,4 @@ https://github.com/hyelimchoi1223/AIFFEL/tree/main/pre-school
 * [Week2](https://github.com/hyelimchoi1223/AIFFEL/tree/main/week2/[풀잎]코딩마스터)
   * [Better Way 28~32](https://github.com/hyelimchoi1223/AIFFEL/blob/main/week2/%5B%ED%92%80%EC%9E%8E%5D%EC%BD%94%EB%94%A9%EB%A7%88%EC%8A%A4%ED%84%B0/2021.07.05.md)  
   * [Better Way 43](https://github.com/hyelimchoi1223/AIFFEL/blob/main/week2/%5B%ED%92%80%EC%9E%8E%5D%EC%BD%94%EB%94%A9%EB%A7%88%EC%8A%A4%ED%84%B0/2021.07.07.md)  
+  * [Better Way 70](https://github.com/hyelimchoi1223/AIFFEL/blob/main/week2/%5B%ED%92%80%EC%9E%8E%5D%EC%BD%94%EB%94%A9%EB%A7%88%EC%8A%A4%ED%84%B0/2021.07.08.md)  
