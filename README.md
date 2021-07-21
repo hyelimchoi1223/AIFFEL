@@ -20,6 +20,8 @@ https://github.com/hyelimchoi1223/AIFFEL/tree/main/pre-school
   * Fundamental 11 : 사이킷런으로 구현해 보는 머신러닝
   * Exploration 1  : 인공지능과 가위바위보 하기 
   * Fundamental 12 : 파이썬으로 이미지 파일 다루기
+  * Exploration 2  : 
+  * Fundamental 13 : 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기
 
 ## ✅ 풀잎스쿨 정리
 * [Week1](https://github.com/hyelimchoi1223/AIFFEL/tree/main/week1/[풀잎]코딩마스터)
