@@ -1,5 +1,5 @@
 # 🌞 AIFFEL
-**2기 : (2021.06.24~)**
+**2기 : (2021.06.24~2021.12.16)**
 ## 🎁 Pre-School 정리
 https://github.com/hyelimchoi1223/AIFFEL/tree/main/pre-school    
 사전에 진행한 파이썬 스터디 정리
